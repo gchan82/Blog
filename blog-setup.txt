@@ -1,0 +1,13 @@
+ReduxSimpleStarter boilerplate
+npm install
+
+http://reduxblog.herokuapp.com
+postman - chrome://apps
+
+npm i --save react-router-dom@4.2.2
+npm i --save axios redux-promise
+npm i --save redux-form@6.6.3
+
+
+https://stephengrider.github.io/JSPlaygrounds/
+redux-form.com/6.6.3/docs/GettingStarted.md/
